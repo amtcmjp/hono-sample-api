@@ -14,8 +14,6 @@ backup.sql
 infra/certificate/*
 infra/config/*
 .DS_Store
-*.test.js
-tests/*
 
 *.internal.js
 tests/api-encryption-converter.html
